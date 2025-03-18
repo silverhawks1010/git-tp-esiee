@@ -9,3 +9,5 @@ Le tp consite à faire diverse commande pour apprendre git en ligne de commande
 ceci est un ajout de la branch develop
 
 ceci est une modif pour faire un conflit
+
+ceci va crée un conflit
